@@ -3,27 +3,30 @@ body {
 }
 
 .red {
-    width: 30rem;
+    width: 29.9rem;
     height: 100rem;
     
     background-color: red;
+    
     display: inline-block;
     
     margin-left: 1.4rem;
   }
   
   .green {
-      width: 30rem;
+      width: 29.9rem;
       height: 100rem;
     
       background-color: lime;
+      
       display: inline-block;
   }
   
   .blue {
-      width: 30rem;
+      width: 29.9rem;
       height: 100rem;
     
       background-color: blue;
+      
       display: inline-block;
   }
